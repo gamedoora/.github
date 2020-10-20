@@ -32,17 +32,19 @@ Style guide
 -----------
 
 If you're writing content, see the following style guides as per the project you are working on:
+* Ruby: Refer any of the below guides
+  1. https://github.com/airbnb/ruby
+  2. https://github.com/rubocop-hq/ruby-style-guide
 
-*   Ruby: Refer any of the below guides
+* Rails: https://github.com/rubocop-hq/rails-style-guide
 
-1.  [https://github.com/airbnb/ruby](https://www.google.com/url?q=https://github.com/airbnb/ruby&sa=D&ust=1581774230544000)
-2.  [https://github.com/rubocop-hq/ruby-style-guide](https://www.google.com/url?q=https://github.com/rubocop-hq/ruby-style-guide&sa=D&ust=1581774230544000)
+* React: https://github.com/airbnb/javascript/tree/master/react
 
-*   Rails: [](https://www.google.com/url?q=https://github.com/rubocop-hq/rails-style-guide&sa=D&ust=1581774230545000) [https://github.com/rubocop-hq/rails-style-guide](https://www.google.com/url?q=https://github.com/rubocop-hq/rails-style-guide&sa=D&ust=1581774230545000)
-*   React: [](https://www.google.com/url?q=https://github.com/airbnb/javascript/tree/master/react&sa=D&ust=1581774230546000) [https://github.com/airbnb/javascript/tree/master/react](https://www.google.com/url?q=https://github.com/airbnb/javascript/tree/master/react&sa=D&ust=1581774230546000)
-*   Javascript: [](https://www.google.com/url?q=https://google.github.io/styleguide/jsguide.html&sa=D&ust=1581774230546000) [https://google.github.io/styleguide/jsguide.html](https://www.google.com/url?q=https://google.github.io/styleguide/jsguide.html&sa=D&ust=1581774230547000)
-*   HTML/CSS: [](https://www.google.com/url?q=https://google.github.io/styleguide/htmlcssguide.html&sa=D&ust=1581774230547000) [https://google.github.io/styleguide/htmlcssguide.html](https://www.google.com/url?q=https://google.github.io/styleguide/htmlcssguide.html&sa=D&ust=1581774230547000)
-*   Java: [](https://www.google.com/url?q=https://google.github.io/styleguide/javaguide.html&sa=D&ust=1581774230548000) [https://google.github.io/styleguide/javaguide.html](https://www.google.com/url?q=https://google.github.io/styleguide/javaguide.html&sa=D&ust=1581774230548000)
+* Javascript: https://google.github.io/styleguide/jsguide.html
+
+* HTML/CSS: https://google.github.io/styleguide/htmlcssguide.html
+
+* Java: https://google.github.io/styleguide/javaguide.html
 
 Repositories
 ------------
