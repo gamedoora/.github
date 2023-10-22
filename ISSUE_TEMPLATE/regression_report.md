@@ -4,7 +4,7 @@ about: Tell us about something that worked at one point and now doesn't
 title: ''
 labels: regression
 assignees: ''
-projects: gamedoora/gamedoora-ui/projects/1
+
 ---
 
 <!--For regression reports, please provide as much relevant info as possible.-->

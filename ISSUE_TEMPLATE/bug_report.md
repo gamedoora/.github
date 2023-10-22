@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-projects: gamedoora/gamedoora-ui/projects/1
+
 ---
 
 **Describe the bug**

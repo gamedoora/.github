@@ -4,7 +4,7 @@ about: Usage question or discussion about anything related to the platform
 title: ''
 labels: question
 assignees: ''
-projects: gamedoora/gamedoora-ui/projects/1
+
 ---
 
 <!--

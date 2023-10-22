@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: enhancement
 assignees: ''
-projects: gamedoora/gamedoora-ui/projects/1
+
 ---
 
 ## Is your feature request related to a problem? Please describe
